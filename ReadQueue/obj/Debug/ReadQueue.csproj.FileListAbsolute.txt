@@ -1,0 +1,10 @@
+c:\users\alumno\documents\visual studio 2015\Projects\ReadQueue\ReadQueue\bin\Debug\ReadQueue.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\ReadQueue\ReadQueue\bin\Debug\ReadQueue.exe
+c:\users\alumno\documents\visual studio 2015\Projects\ReadQueue\ReadQueue\bin\Debug\ReadQueue.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\ReadQueue\ReadQueue\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ReadQueue\ReadQueue\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ReadQueue\ReadQueue\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\alumno\documents\visual studio 2015\Projects\ReadQueue\ReadQueue\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+c:\users\alumno\documents\visual studio 2015\Projects\ReadQueue\ReadQueue\obj\Debug\ReadQueue.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\ReadQueue\ReadQueue\obj\Debug\ReadQueue.exe
+c:\users\alumno\documents\visual studio 2015\Projects\ReadQueue\ReadQueue\obj\Debug\ReadQueue.pdb
